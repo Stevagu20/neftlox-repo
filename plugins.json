@@ -1,0 +1,12 @@
+[
+  {
+    "name": "Mi Extension",
+    "internalName": "MiExtension",
+    "pluginClassName": "com.ejemplo.MiExtension",
+    "version": 1,
+    "apiVersion": 1,
+    "tvTypes": ["Movie", "TvSeries"],
+    "language": "es",
+    "url": "https://storage.googleapis.com/neftlox-repo/plugins/MiExtension.cs3"
+  }
+]

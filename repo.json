@@ -1,0 +1,8 @@
+{
+  "name": "Neftlox Cloud Repo",
+  "description": "Repositorio personal de Neftlox",
+  "manifestVersion": 1,
+  "pluginLists": [
+    "https://storage.googleapis.com/neftlox-repo/plugins.json"
+  ]
+}
